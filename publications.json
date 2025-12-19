@@ -1,29 +1,17 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "Contact process on graph products",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Dung Nguyen",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Dung Nguyen*",
+        "Author 2"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "ALEA (2025)",
       "thumbnail": "images/thumbs/1.jpg",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "#"
       }
     },
     {
