@@ -3,22 +3,36 @@
     {
       "title": "Contact process on graph products",
       "authors": [
-        "Dung Nguyen*",
+        "Dung Nguyen",
         "Author 2"
       ],
-      "venue": "ALEA (2025)",
+      "venue": "Preprint (2025)",
       "thumbnail": "images/thumbs/1.jpg",
-      "selected": 0,
+      "selected": 1,
       "award": "",
       "links": {
         "pdf": "#"
       }
     },
     {
-      "title": "Cyclotomic Factors of Rational Necklace Functions",
+      "title": "On gcd-graphs over a matrix ring",
       "authors": [
-        "Author 1*",
-        "Author 2*",
+        "Dung Nguyen",
+        "Author 2"
+      ],
+      "venue": "Preprint (2025)",
+      "thumbnail": "images/thumbs/2.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      }
+    },
+    {
+      "title": "Cyclotomic factors of rational Necklace functions",
+      "authors": [
+        "Author 1",
+        "Author 2",
         "Dung Nguyen",
         "Author 4",
         "Author 5",
@@ -26,7 +40,7 @@
       ],
       "venue": "Preprint (2025)",
       "thumbnail": "images/thumbs/viasm_reu.jpg",
-      "selected": 1,
+      "selected": 0,
       "award": "",
       "links": {
         "pdf": "#"
