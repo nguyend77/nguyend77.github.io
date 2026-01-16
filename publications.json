@@ -1,26 +1,12 @@
 {
   "publications": [
     {
-      "title": "Contact process on graph products",
-      "authors": [
-        "Dung Nguyen",
-        "Author 2"
-      ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
-      "selected": 1,
-      "award": "",
-      "links": {
-        "pdf": "#"
-      }
-    },
-    {
       "title": "On gcd-graphs over a matrix ring",
       "authors": [
         "Dung Nguyen",
         "Author 2"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "Preprint (2026)",
       "thumbnail": "images/thumbs/1.jpg",
       "selected": 1,
       "award": "",
@@ -38,7 +24,7 @@
         "Author 5",
         "Author 6"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "Preprint (2026)",
       "thumbnail": "images/thumbs/viasm_reu.jpg",
       "selected": 0,
       "award": "",
@@ -51,12 +37,13 @@
       "authors": [
         "Dung Nguyen"
       ],
-      "venue": "CVPR-W (2025)",
+      "venue": "AERO-HPR @ CVPR (2026)",
       "thumbnail": "images/thumbs/2.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "#",
+        "BibTeX": "#"
       }
     }
   ]
