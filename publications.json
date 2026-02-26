@@ -1,6 +1,37 @@
 {
   "publications": [
     {
+      "title": "A Cloud-Based Decentralized Multi-Agent Framework for De Novo Protein Design",
+      "authors": [
+        "Dung Nguyen",
+        "Author 2",
+        "Author 3"
+      ],
+      "venue": "AAAI Student Abstract (2027)",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "BibTeX": "#"
+      }
+    },
+    {
+      "title": "Gcd-graphs over matrix rings",
+      "authors": [
+        "Dung Nguyen",
+        "Author 2"
+      ],
+      "venue": "Preprint (2026)",
+      "thumbnail": "images/thumbs/2.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "BibTeX": "#"
+      }
+    },
+    {
       "title": "Contact processes on random graphs with heavy-tailed degree distributions",
       "authors": [
         "Dung Nguyen",
