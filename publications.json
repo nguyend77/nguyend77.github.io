@@ -12,8 +12,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "BibTeX": "#"
+        "pdf": "#"
       }
     },
     {
@@ -27,8 +26,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "BibTeX": "#"
+        "pdf": "#"
       }
     },
     {
@@ -37,13 +35,12 @@
         "Dung Nguyen",
         "Tung T. Nguyen"
       ],
-      "venue": "Preprint (2026)",
+      "venue": "Bulletin of the Australian Mathematical Society (2026)",
       "thumbnail": "images/thumbs/gcd_graph.png",
       "selected": 1,
-      "award": "ISMAA Outstanding Undergraduate Research",
+      "award": "ISMAA OUR",
       "links": {
-        "pdf": "#",
-        "BibTeX": "#"
+        "pdf": "#"
       }
     }
   ]
