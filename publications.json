@@ -15,7 +15,7 @@
       }
     },
     {
-      "title": "Contact processes on random graphs with heavy-tailed degree distributions",
+      "title": "Contact process with depleting resource",
       "authors": [
         "Dung Nguyen",
         "Catherine Crawford"
@@ -37,6 +37,7 @@
       "venue": "Preprint (2026)",
       "thumbnail": "images/thumbs/gcd_graph.png",
       "selected": 1,
+      "award": "ISMAA OUR",
       "links": {
         "pdf": "#"
       }
