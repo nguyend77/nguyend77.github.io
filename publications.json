@@ -1,22 +1,7 @@
 {
   "publications": [
     {
-      "title": "Towards Real-Time Visual Description on Wearable Low Vision Assistive Devices",
-      "authors": [
-        "Dung Nguyen",
-        "Aayush Acharya",
-        "Benjamin De Jong"
-      ],
-      "venue": "Preprint (2026)",
-      "thumbnail": "images/thumbs/1.jpg",
-      "selected": 1,
-      "award": "",
-      "links": {
-        "pdf": "#"
-      }
-    },
-    {
-      "title": "Mean-field approximation of the knowledge diffusion contact process",
+      "title": "Mean-field approximation of the knowledge spread contact process",
       "authors": [
         "Dung Nguyen",
         "Catherine Crawford"
