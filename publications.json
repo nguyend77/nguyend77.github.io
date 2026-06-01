@@ -11,7 +11,8 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "#",
+        "code": "#"
       }
     },
     {
@@ -27,6 +28,23 @@
       "links": {
         "pdf": "#",
         "code": "https://github.com/nguyend77/gcd-graphs-matrix-rings"
+      }
+    },
+    {
+      "title": "Cyclotomic factors of rational necklace functions",
+      "authors": [
+        "Nguyen Cao Minh",
+        "Nguyen Vu Hoang Minh",
+        "Dung Nguyen",
+        "Tung T. Nguyen",
+        "Nguyen Duy Tan",
+        "Duong Tran"
+      ],
+      "venue": "Preprint (2026)",
+      "thumbnail": "images/thumbs/viasm_reu.jpg",
+      "selected": 0,
+      "links": {
+        "pdf": "#"
       }
     }
   ]
