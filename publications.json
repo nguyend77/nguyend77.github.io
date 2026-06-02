@@ -26,7 +26,7 @@
       "selected": 1,
       "award": "ISMAA OUR",
       "links": {
-        "pdf": "#",
+        "pdf": "https://arxiv.org/abs/2606.00836",
         "code": "https://github.com/nguyend77/gcd-graphs-matrix-rings"
       }
     },
@@ -44,7 +44,7 @@
       "thumbnail": "images/thumbs/viasm_reu.jpg",
       "selected": 0,
       "links": {
-        "pdf": "#"
+        "pdf": "https://arxiv.org/abs/2606.02324"
       }
     }
   ]
