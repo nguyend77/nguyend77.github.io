@@ -1,21 +1,6 @@
 {
   "publications": [
     {
-      "title": "Mean-field approximation of the knowledge spread contact process",
-      "authors": [
-        "Dung Nguyen",
-        "Catherine Crawford"
-      ],
-      "venue": "Preprint (2026)",
-      "thumbnail": "images/thumbs/knowledge_cp.png",
-      "selected": 1,
-      "award": "",
-      "links": {
-        "pdf": "#",
-        "code": "#"
-      }
-    },
-    {
       "title": "Gcd-graphs over matrix rings",
       "authors": [
         "Dung Nguyen",
